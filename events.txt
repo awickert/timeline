@@ -1,0 +1,4 @@
+Last Wooly Mammoth :(,solid,3600,3600,0,0
+Ancient Egypt,solid,2282,5050,0,0
+Celtic peoples,dashed,0,2600,-500,550
+Little Ice Age,dotted,650,100,0,0
